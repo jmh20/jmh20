@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmh20
-- 👀 I’m interested in and the list goes on
-- 🌱 I’m currently learning ... Into R SQL & Python programming since December 2019
-- 💞️ I’m looking to collaborate on ... any data project, Excel training in different languages
+- 👀 I’m interested in ...  and the list goes on
+- 🌱 I’m currently learning ... R SQL & Python programming since December 2019
+- 💞️ I’m looking to collaborate on ... any data project, I can offer services for Excel training in different languages
 - 📫 How to reach me ... here or on jmherard linkedin ... cheers
 
 <!---
