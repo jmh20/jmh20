@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jmh20
-- 👀 I’m interested in business intelligence and data, in general.
-- 💞️ I’m looking to collaborate on projects related to training content (Excel, Power BI, Power Query), in different languages.
+- 👀 I’m interested in business intelligence and data
 - 📫 How to reach me ... here or on jmherard linkedin ... cheers
 
 <!---
