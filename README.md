@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @jmh20
 - 👀 I’m interested in business intelligence and data
-- 📫 How to reach me ... here or on jmherard linkedin ... cheers
+- 📫 How to reach me ... here or on jmherard linkedin ...
+- ✅ Excel & Power BI & Databricks certified user, Snowflake user
+
+- cheers
 
 <!---
 jmh20/jmh20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
