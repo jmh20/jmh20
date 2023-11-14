@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmh20
 - 👀 I’m interested in business intelligence and data
 - 📫 How to reach me ... here or on jmherard linkedin ...
-- ✅ Excel & Power BI & Databricks certified user, Snowflake user
+- ✅ Excel, Power BI, Databricks certified user, Snowflake user
 
 - cheers
 
